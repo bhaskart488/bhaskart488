@@ -1,5 +1,3 @@
-[https://www.linkedin.com/in/bhaskart488/](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
 <h1 align="center">Hi 👋, I'm Bhaskar Trivedi</h1>
 <h3 align="center">A Computer Science Graduate from Madan Mohan Malaviya University of Technology</h3>
 
