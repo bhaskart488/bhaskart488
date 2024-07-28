@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.linkedin.com/in/bhaskart488/](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIxNzE2NjUsIm5iZiI6MTcyMjE3MTM2NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI4VDEyNTYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczOGRhZjcwZGVmZjM5ZmFlZTE2ZmMwNTdkY2RiOTA1ZWFiYjczNTE4YzEwMmYzZDQ0MDgyM2VhOTNkMTAwYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fgDmCh8stPt3QLlxdCF3ODrG2A2ceN3F-54eCc6YZJc))](https://www.linkedin.com/in/bhaskart488/)
+[![MasterHead][https://www.linkedin.com/in/bhaskart488/](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIxNzE2NjUsIm5iZiI6MTcyMjE3MTM2NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI4VDEyNTYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczOGRhZjcwZGVmZjM5ZmFlZTE2ZmMwNTdkY2RiOTA1ZWFiYjczNTE4YzEwMmYzZDQ0MDgyM2VhOTNkMTAwYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fgDmCh8stPt3QLlxdCF3ODrG2A2ceN3F-54eCc6YZJc)))
 
 <h1 align="center">Hi 👋, I'm Bhaskar Trivedi</h1>
 <h3 align="center">A Computer Science Graduate from Madan Mohan Malaviya University of Technology</h3>
@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with [MeteoMaster](https://github.com/bhaskart488/meteoMaster)
 
-- 👨‍💻 All of my projects are available at [My Github](My Github)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/bhaskart488))
 
 - 💬 Ask me about **Flask development, Machine Learning**
 
 - 📫 How to reach me **bhaskartrivedi488@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](Resume Link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Hb3K60ObCY3t990ZV5gFT6eFjJu2Jrfj/view?usp=sharing)
 
 - ⚡ Fun fact **I am also enrolled in IITM Online B.S. (Data Science)**
 
