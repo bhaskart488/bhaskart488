@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Hb3K60ObCY3t990ZV5gFT6eFjJu2Jrfj/view?usp=sharing)
 
-- ⚡ Fun fact **I am also enrolled in IITM Online B.S. (Data Science)**
+- ⚡ Fun fact: I am also enrolled in IITM B.S. (Data Science)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
