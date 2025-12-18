@@ -11,7 +11,7 @@ ML Engineer focused on Applied ML, GenAI, and LLM-based systems
 
 Learning Vue.js for ML product interfaces
 
-Collaborating on Deepfake Detection | Building MeteoMaster
+Collaborating on Deepfake Detection | Learning Databricks Platform for ML Pipelines
 
 Projects: https://github.com/bhaskart488
 
